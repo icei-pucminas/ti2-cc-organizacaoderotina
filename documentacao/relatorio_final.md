@@ -4,8 +4,11 @@
 
 
 **Daniel Soares França**
+
 **Lucas Diniz de Moraes**
+
 **Filipe Arthur Ferreira Silva**
+
 **Thais Camila Gonçalves costa, thaiscamilacc@gmail.com**
 
 ---
