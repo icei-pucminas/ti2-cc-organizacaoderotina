@@ -32,7 +32,9 @@ No livro O Poder do Hábito de Charles Duhigg é apresentada uma teoria de um lo
 	A maioria das respostas apontam como principal problema desse grupo a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas.
 No formulário também foi perguntado se as pessoas utilizam algum software que auxilie na organização. Nesse maior destaque vai ás pessoas que não utilizam esses serviços, que compõem mais de 60% das respostas
 
-![Figura 1 - Gráfico de respostas do formulário](imagens/images/image19.jpg "Gráfico de respostas do formulário")
+<p align="center">
+   <img src="imagens/images/image19.png" />
+</p>
 
 
 **1.2 Problema**
@@ -104,7 +106,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 
 <p align="center">
-  <img src="imagens/images/1_5GAPClpa09DmNcCslMA23Q.png" />
+  <img src="imagens/images/1_5GAPClpa09DmNcCslMA23Q.png" height = "150" width - "150" />
   <img src="imagens/images/java-logo-02.jpg" />
   <img src="imagens/images/2.jpg" />
   <img src="imagens/images/logo-maven.png" />
