@@ -25,6 +25,7 @@ Nosso objetivo é que o usuário atinja o máximo rendimento em suas tarefas com
 
 
 **1. Introdução**
+
 **1.1 contextualização**
 No livro O Poder do Hábito de Charles Duhigg é apresentada uma teoria de um loop do hábito, na qual, o funcionamento de todos nossas atividade rotineiras passariam esse loop, que começa com uma deixa, que é um ativador da rotina, a rotina sendo a atividade propriamente dita, e gerando um recompensa, porém grande parcela da sociedade apresenta dificuldades para organizar seu dia ,ou seja, construir esse loop de maneira positiva. Afinal, em uma sociedade corridas em que todos nós temos de ser multitarefas, é difícil para essas pessoas terem tempo para se organizar.
 	Tendo isso em mente, fizemos uma pesquisa de campo com um questionário (em que recebemos 19 respostas de estudantes da PUC, UFMG, Coltec e estudantes de vestibular) e uma enquete em uma rede social (em que recebemos 11 respostas).
@@ -36,16 +37,13 @@ No formulário também foi perguntado se as pessoas utilizam algum software que 
 
 **1.2 Problema**
 Conforme exposto, o problema que se busca resolver com este projeto é que o nosso usuário seja capaz de atingir o máximo rendimento em suas tarefas diárias , produzindo um crescimento constante pessoal para se tornar uma pessoa melhor.
+
 **1.3 Objetivos gerais**
 Criar uma aplicação web que ajude o usuário a organizar sua rotina, auxiliando na conciliação entre tarefas acadêmicas e pessoais, evidenciando também eventos e tarefas futuras importantes.
 Como objetivos específicos, podemos ressaltar:
-- Disponibilizar uma agenda para organização da rotina. 
-- Salvar resumos de matéria estudada (técnica Feynman)
-- Cronômetro Pomodoro: Auxilia o usuário a organizar o tempo.
-
-**1.3.1 Objetivos específicos**
-Apresente também alguns (pelo menos 2) **objetivos específicos** depende
-ndo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+- **1.3.1** Disponibilizar uma agenda para organização da rotina. 
+- **1.3.2** Salvar resumos de matéria estudada (técnica Feynman)
+- **1.3.3** Cronômetro Pomodoro: Auxilia o usuário a organizar o tempo.
 
 **1.4 Justificativas**
 Após pesquisa de campo por diversas redes sociais ,foi verificado em nossos questionários que a grande maioria dos entrevistados têm dificuldade para organizar a rotina. Seja para estabelecer prioridades ,falta de motivação para comprir tarefas ,tempo diário mal utilizado, falta de persistência e entre outros.
