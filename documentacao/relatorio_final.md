@@ -110,6 +110,15 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 - Back-end: MAVEN -  ferramenta de automação de compilação utilizada primariamente em projetos Java. 
 
+
+<p align="center">
+  <img src="imagens/images/1_5GAPClpa09DmNcCslMA23Q.png" />
+  <img src="imagens/images/java-logo-02.jpg" />
+  <img src="imagens/images/2.jpg" />
+  <img src="imagens/images/logo-maven.png" />
+</p>
+
+
 ** 2.3 Serviços Inteligentes  **
 
 Descreva o mecanismo de inteligência que será utilizado no seu sistema. Utilize a modelagem baseada em agente
@@ -140,8 +149,12 @@ usuário, nome completo, email e senha e assim por sua vez será também salvo l
 ![Fluxo de telas do usuário](imagens/images/image9.png "Fluxo de telas do usuário")
 ![Fluxo de telas do usuário](imagens/images/image54.png "Fluxo de telas do usuário")
 ![Fluxo de telas do usuário](imagens/images/image14.png "Fluxo de telas do usuário")
+
 <p align="center">
   <img src="imagens/images/image47.png" />
+  <img src="imagens/images/image9.png" />
+ <img src="imagens/images/image54.png" />
+ <img src="imagens/images/image14.png" />
 </p>
 - Tela de Pomodoro
 
@@ -151,6 +164,12 @@ A tela apresenta um cronômetro que utiliza a técnica pomodoro, assim a pessoa 
 ![Fluxo de telas do usuário](imagens/images/image49.png "Fluxo de telas do usuário")
 ![Fluxo de telas do usuário](imagens/images/image15.png "Fluxo de telas do usuário")
 
+<p align="center">
+  <img src="imagens/images/image36.png" />
+  <img src="imagens/images/image49.png" />
+ <img src="imagens/images/image15.png" />
+</p>
+
 - Quadro de horários
 
 O quadro de horários é um carrossel com 7 partes, cada uma exibindo as tarefas cotidianas do usuário em um determinado dia da semana. Há também um pequeno formulário para adicionar uma nova tarefa, e ao lado de cada atividade há um link que, se clicado, remove a tarefa do quadro (Obs : se a tarefa deletada ocorrer em mais de um dia, ela será removida de todos os dias).
@@ -159,6 +178,12 @@ O quadro de horários é um carrossel com 7 partes, cada uma exibindo as tarefas
 ![Fluxo de telas do usuário](imagens/images/image27.png "Fluxo de telas do usuário")
 ![Fluxo de telas do usuário](imagens/images/image20.png "Fluxo de telas do usuário")
 
+<p align="center">
+  <img src="imagens/images/image5.png" />
+  <img src="imagens/images/image27.png" />
+ <img src="imagens/images/image20.png" />
+</p>
+
 - Tela de Lembrete
 
 A tela apresenta um meio das pessoas adicionar tarefas, no qual, acontecem apenas uma vez e em determinado dia. Assim o usuário coloca o nome da lembrete, descrição, data do lembrete e a hora que irá acontecer,essas informações são salvas no localStorage. Ao fazer isso é criado ao lado uma lista dos lembretes contendo essas informações, cada elemento dessa lista ao ser clicado o lembrete é excluído, portanto tornando mais dinâmica o modo de manipular os mesmos. Fora isso na área lateral é onde o estudante pode voltar para a home, ir para ver todos seus resumos, suas tarefas ou uma página informativa sobre o projeto.
@@ -166,6 +191,12 @@ A tela apresenta um meio das pessoas adicionar tarefas, no qual, acontecem apena
 ![Fluxo de telas do usuário](imagens/images/image52.png "Fluxo de telas do usuário")
 ![Fluxo de telas do usuário](imagens/images/image34.png "Fluxo de telas do usuário")
 ![Fluxo de telas do usuário](imagens/images/image57.png "Fluxo de telas do usuário")
+
+<p align="center">
+  <img src="imagens/images/image52.png" />
+  <img src="imagens/images/image34.png" />
+ <img src="imagens/images/image57.png" />
+</p>
 
 **5. Avaliação**
 
