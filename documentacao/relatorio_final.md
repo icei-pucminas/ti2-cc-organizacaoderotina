@@ -17,8 +17,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-Nosso objetivo é que o usuário atinja o máximo rendimento em suas tarefas com nosso site. Em uma pesquisa realizada pelo grupo no primeiro semestre de 2020 as pessoas apontam como principal problema a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas, então nosso objetivo geral e ter uma aplicação web que ajude-os a se organizar.
-._
+Nosso objetivo é que o usuário atinja o máximo rendimento em suas tarefas com nosso site. Em uma pesquisa realizada pelo grupo no primeiro semestre de 2020 as pessoas apontam como principal problema a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas, então nosso objetivo geral e ter uma aplicação web que ajude-os a se organizar._
 
 ---
 
@@ -123,7 +122,8 @@ Apresente o modelo de dados. Defina o dicionário de dados com os respectivos fo
 Apresente a estrutura das tabelas de banco de dados no modelo Diagrama de Entidade-Relacionamento. 
 A Seguir, segue um exemplo de imagem adicionada ao documento.
 
-![Diagrama de Entidade Relacionamento de Exemplo]( "Diagrama de Entidade Relacionamento de Exemplo")
+
+
 
 **4. Sistema desenvolvido**
 
