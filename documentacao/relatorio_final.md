@@ -94,19 +94,11 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
     2.2. Tecnologias
 
-![Figura 2 - Tecnologias ](imagens/images/1_5GAPClpa09DmNcCslMA23Q.png "Tecnologias")
-
 - Desenvolvimento web: HTML, CSS, JAVASCRIPT - utilizados para construir o front-end do site 
-
-![Figura 3 - Tecnologias ](imagens/images/java-logo-02.jpg "Tecnologias")
 
 - Back-end: Java - utilizados para construir o Back-end do site 
 
-![Figura 4 - Tecnologias ](imagens/images/2.jpg "Tecnologias")
-
 - Back-end: PostgreSQL - sistema gerenciador de banco de dados do site 
-
-![Figura 5 - Tecnologias ](imagens/images/logo-maven.png "Tecnologias")
 
 - Back-end: MAVEN -  ferramenta de automação de compilação utilizada primariamente em projetos Java. 
 
@@ -155,9 +147,6 @@ usuário, nome completo, email e senha e assim por sua vez será também salvo l
 
 A tela apresenta um cronômetro que utiliza a técnica pomodoro, assim a pessoa pode executar a tarefa por 25 minutos, sendo que, após tem  pausas curtas de 5 minutos, e após 4 pausar curtas tem uma longa de 15 minutos. Nessa página também após a execução da tarefa a pessoa tem a possibilidade de fazer um resumo bem básico da matéria na qual ele estudou, seguindo a técnica de Feynman. Fora isso na área lateral é onde o estudante pode voltar para a home, ir para ver todos seus resumos, suas tarefas ou uma página informativa sobre o projeto
 
-![Fluxo de telas do usuário](imagens/images/image36.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image49.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image15.png "Fluxo de telas do usuário")
 
 <p align="center">
   <img src="imagens/images/image36.png" />
@@ -169,9 +158,6 @@ A tela apresenta um cronômetro que utiliza a técnica pomodoro, assim a pessoa 
 
 O quadro de horários é um carrossel com 7 partes, cada uma exibindo as tarefas cotidianas do usuário em um determinado dia da semana. Há também um pequeno formulário para adicionar uma nova tarefa, e ao lado de cada atividade há um link que, se clicado, remove a tarefa do quadro (Obs : se a tarefa deletada ocorrer em mais de um dia, ela será removida de todos os dias).
 
-![Fluxo de telas do usuário](imagens/images/image5.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image27.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image20.png "Fluxo de telas do usuário")
 
 <p align="center">
   <img src="imagens/images/image5.png" />
@@ -183,9 +169,6 @@ O quadro de horários é um carrossel com 7 partes, cada uma exibindo as tarefas
 
 A tela apresenta um meio das pessoas adicionar tarefas, no qual, acontecem apenas uma vez e em determinado dia. Assim o usuário coloca o nome da lembrete, descrição, data do lembrete e a hora que irá acontecer,essas informações são salvas no localStorage. Ao fazer isso é criado ao lado uma lista dos lembretes contendo essas informações, cada elemento dessa lista ao ser clicado o lembrete é excluído, portanto tornando mais dinâmica o modo de manipular os mesmos. Fora isso na área lateral é onde o estudante pode voltar para a home, ir para ver todos seus resumos, suas tarefas ou uma página informativa sobre o projeto.
 
-![Fluxo de telas do usuário](imagens/images/image52.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image34.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image57.png "Fluxo de telas do usuário")
 
 <p align="center">
   <img src="imagens/images/image52.png" />
