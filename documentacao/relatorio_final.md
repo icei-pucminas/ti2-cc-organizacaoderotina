@@ -129,33 +129,20 @@ A Seguir, segue um exemplo de imagem adicionada ao documento.
 ![Diagrama de Entidade Relacionamento de Exemplo]( "Diagrama de Entidade Relacionamento de Exemplo")
 
 **4. Sistema desenvolvido**
-- Fluxo do Usuário
 
-O diagrama apresentado na Figura  mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto.
+- Tela de Login e Cadastro
 
-![Fluxo de telas do usuário](imagens/images/image31.png "Fluxo de telas do usuário")
+Esse é a tela onde a pessoas, na qual, já possuem conta entram nela atraves do usuário e sua senha, já armazenados no localStorage, e os que não podem cadastrar-se através de um PopUp, aberto ao clicar no botão de novo usuário. Nesse popUp deve ser colocado 
+usuário, nome completo, email e senha e assim por sua vez será também salvo localmente. Fora isso no botão cancelar para voltar para home  home.
 
-- Wireframes
 
-Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. 
+![Fluxo de telas do usuário](imagens/images/image47.png "Fluxo de telas do usuário")
+![Fluxo de telas do usuário](imagens/images/image9.png "Fluxo de telas do usuário")
+![Fluxo de telas do usuário](imagens/images/image54.png "Fluxo de telas do usuário")
+![Fluxo de telas do usuário](imagens/images/image14.png "Fluxo de telas do usuário")
 
-- Tela - Home-Page
 
-A tela de home-page mostra algumas das principais funcionalidades do sistema, assim como apresenta os criadores.
 
-![Fluxo de telas do usuário](imagens/images/image32.png "Fluxo de telas do usuário")
-
-- Telas - Cadastro e login
-
-A tela de cadastro é semelhante a da figura: uma tela de cadastro normal, em que além de fornecer nome, email e senha, haveria uma opção para criar uma conta a partir de contas externas. 
-
-![Fluxo de telas do usuário](imagens/images/image4.png "Fluxo de telas do usuário")
-
-Com o cadastro concluído, o usuário vai a uma tela semelhante à figura, indicando que o cadastro foi concluído com sucesso, indo em seguida à tela de login , também não muito diferente de telas de login normais.
-
-![Fluxo de telas do usuário](imagens/images/image16.png "Fluxo de telas do usuário")
-
-![Fluxo de telas do usuário](imagens/images/image26.png "Fluxo de telas do usuário")
 
 **5. Avaliação**
 
