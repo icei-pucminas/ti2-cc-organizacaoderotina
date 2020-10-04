@@ -25,44 +25,37 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 
 **1. Introdução**
-
-A introdução deve apresentar de dois ou quatro parágrafos de contextualização do trabalho. 
-
-Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
-
-Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o artigo trata. 
-O **problema** pode ser algo vivido em uma empresa específica.
-
 **1.1 contextualização**
 No livro O Poder do Hábito de Charles Duhigg é apresentada uma teoria de um loop do hábito, na qual, o funcionamento de todos nossas atividade rotineiras passariam esse loop, que começa com uma deixa, que é um ativador da rotina, a rotina sendo a atividade propriamente dita, e gerando um recompensa, porém grande parcela da sociedade apresenta dificuldades para organizar seu dia ,ou seja, construir esse loop de maneira positiva. Afinal, em uma sociedade corridas em que todos nós temos de ser multitarefas, é difícil para essas pessoas terem tempo para se organizar.
-
 	Tendo isso em mente, fizemos uma pesquisa de campo com um questionário (em que recebemos 19 respostas de estudantes da PUC, UFMG, Coltec e estudantes de vestibular) e uma enquete em uma rede social (em que recebemos 11 respostas).
-
 	A maioria das respostas apontam como principal problema desse grupo a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas.
-
 No formulário também foi perguntado se as pessoas utilizam algum software que auxilie na organização. Nesse maior destaque vai ás pessoas que não utilizam esses serviços, que compõem mais de 60% das respostas
+![Figura 1 - Gráfico de respostas do formulário](/images/image1.png "Gráfico de respostas do formulário")
 
-    
+**1.2 Problema**
+Conforme exposto, o problema que se busca resolver com este projeto é que o nosso usuário seja capaz de atingir o máximo rendimento em suas tarefas diárias , produzindo um crescimento constante pessoal para se tornar uma pessoa melhor.
+**1.3 Objetivos gerais**
+Criar uma aplicação web que ajude o usuário a organizar sua rotina, auxiliando na conciliação entre tarefas acadêmicas e pessoais, evidenciando também eventos e tarefas futuras importantes.
+Como objetivos específicos, podemos ressaltar:
+- Disponibilizar uma agenda para organização da rotina. 
+- Salvar resumos de matéria estudada (técnica Feynman)
+- Cronômetro Pomodoro: Auxilia o usuário a organizar o tempo.
 
-        1.3.1 Objetivos específicos
-
+**1.3.1 Objetivos específicos**
 Apresente também alguns (pelo menos 2) **objetivos específicos** depende
 ndo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
 
-    1.4 Justificativas
-
- Após pesquisa de campo por diversas redes sociais ,foi verificado em nossos questionários que a grande maioria dos entrevistados têm dificuldade para organizar a rotina. Seja para estabelecer prioridades ,falta de motivação para comprir tarefas ,tempo diário mal utilizado, falta de persistência e entre outros.
+**1.4 Justificativas**
+Após pesquisa de campo por diversas redes sociais ,foi verificado em nossos questionários que a grande maioria dos entrevistados têm dificuldade para organizar a rotina. Seja para estabelecer prioridades ,falta de motivação para comprir tarefas ,tempo diário mal utilizado, falta de persistência e entre outros.
 
 
 **2. Projeto da Solução**
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
     2.1. Requisitos funcionais
 	
-Enumere os requisitos funcionais previstos para a sua aplicação. 
-Use a tabela abaixo para enumerá-lo.  Esses requisitos devem estar 
-de acordo com as definições do modelo de negócio.
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
 
 | No.           | Descrição                       | Prioridade |
 | ------------- |:-------------------------------:| ----------:|
