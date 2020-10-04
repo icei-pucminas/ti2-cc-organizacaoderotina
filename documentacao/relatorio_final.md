@@ -130,14 +130,17 @@ A Seguir, segue um exemplo de imagem adicionada ao documento.
 
 **4. Sistema desenvolvido**
 - Fluxo do Usuário
+
 O diagrama apresentado na Figura  mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto.
 
 ![Fluxo de telas do usuário](imagens/images/image31.png "Fluxo de telas do usuário")
 
 - Wireframes
+
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. 
 
 - Tela - Home-Page
+
 A tela de home-page mostra algumas das principais funcionalidades do sistema, assim como apresenta os criadores.
 
 
