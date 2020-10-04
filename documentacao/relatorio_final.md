@@ -41,18 +41,14 @@ O **problema** pode ser algo vivido em uma empresa específica.
 
 	Tendo isso em mente, fizemos uma pesquisa de campo com um questionário (em que recebemos 19 respostas de estudantes da PUC, UFMG, Coltec e estudantes de vestibular) e uma enquete em uma rede social (em que recebemos 11 respostas).
 
-	A maioria das respostas apontam como principal problema desse grupo a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas.
-
-No formulário também foi perguntado se as pessoas utilizam algum software que auxilie na organização. Nesse maior destaque vai ás pessoas que não utilizam esses serviços, que compõem mais de 60% das respostas
+	A maioria das respostas apontam como principal problema desse grupo a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas. No formulário também foi perguntado se as pessoas utilizam algum software que auxilie na organização. Nesse maior destaque vai ás pessoas que não utilizam esses serviços, que compõem mais de 60% das respostas
 
     1.2 Problema
     	Conforme exposto, o problema que se busca resolver com este projeto é que o nosso usuário seja capaz de atingir o máximo rendimento em suas tarefas diárias , produzindo um crescimento constante pessoal para se tornar uma pessoa melhor.
+	
+
     1.3 Objetivo geral
-	 Criar uma aplicação web que ajude o usuário a organizar sua rotina, auxiliando na conciliação entre tarefas acadêmicas e pessoais, evidenciando também eventos e tarefas futuras importantes.
-Como objetivos específicos, podemos ressaltar:
-- Disponibilizar uma agenda para organização da rotina. 
-- Salvar resumos de matéria estudada (técnica Feynman)
-- Cronômetro Pomodoro: Auxilia o usuário a organizar o tempo.
+	 Criar uma aplicação web que ajude o usuário a organizar sua rotina, auxiliando na conciliação entre tarefas acadêmicas e pessoais, evidenciando também eventos e tarefas futuras importantes. Como objetivos específicos, podemos ressaltar:- Disponibilizar uma agenda para organização da rotina. - Salvar resumos de matéria estudada (técnica Feynman)- Cronômetro Pomodoro: Auxilia o usuário a organizar o tempo.
 
 
         1.3.1 Objetivos específicos
