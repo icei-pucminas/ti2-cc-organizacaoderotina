@@ -6,7 +6,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Daniel Soares França
 * Filipe A
-* Nome completo do aluno 3
+* Thais Camila Gonçalves Costa 
 * Nome completo do aluno 4
 
 ## Professores responsáveis
