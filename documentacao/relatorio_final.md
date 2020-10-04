@@ -72,7 +72,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 | RF-09 |  O site deve permitir a criação de contas a partir de contas externas. | Baixa |
 | RF-10 | O site deve notificar o usuário em relação aos horários em que ele deverá realizar alguma tarefa. | Baixa | 
 
-** 2.2. Requisitos não funcionais **
+**2.2. Requisitos não funcionais**
+
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 | No.           | Descrição                       | Prioridade |
@@ -82,7 +83,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 | RNF-03 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade  | Média | 
 | RNF-04 | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | Alta |
 	
-** 2.2. Restrições **
+**2.2. Restrições**
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
