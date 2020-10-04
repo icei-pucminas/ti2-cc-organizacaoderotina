@@ -33,7 +33,7 @@ No livro O Poder do Hábito de Charles Duhigg é apresentada uma teoria de um lo
 No formulário também foi perguntado se as pessoas utilizam algum software que auxilie na organização. Nesse maior destaque vai ás pessoas que não utilizam esses serviços, que compõem mais de 60% das respostas
 
 <p align="center">
-   <img src="imagens/images/image19.png" />
+   <img src="imagens/images/image19.jpg"/>
 </p>
 
 
@@ -111,13 +111,6 @@ As questões que limitam a execução desse projeto e que se configuram como obr
   <img src="imagens/images/2.jpg" />
   <img src="imagens/images/logo-maven.png" />
 </p>
-
-
-** 2.3 Serviços Inteligentes  **
-
-Descreva o mecanismo de inteligência que será utilizado no seu sistema. Utilize a modelagem baseada em agente
-para definir as entradas e saídas do seu módulo de serviço inteligente. Apresente quem irá fornecer o serviço
-e em que módulo será utilizado.
 
 	
 **3. Modelagem de dados**
