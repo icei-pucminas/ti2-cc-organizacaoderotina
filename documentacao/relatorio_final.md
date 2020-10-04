@@ -17,7 +17,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**.Nosso objetivo é que o usuário atinja o máximo rendimento em suas tarefas com nosso site. Em uma pesquisa realizada pelo grupo no primeiro semestre de 2020 as pessoas apontam como principal problema a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas, então nosso objetivo geral e ter uma aplicação web que ajude-os a se organizar.
+Nosso objetivo é que o usuário atinja o máximo rendimento em suas tarefas com nosso site. Em uma pesquisa realizada pelo grupo no primeiro semestre de 2020 as pessoas apontam como principal problema a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas, então nosso objetivo geral e ter uma aplicação web que ajude-os a se organizar.
 ._
 
 ---
@@ -31,7 +31,7 @@ No livro O Poder do Hábito de Charles Duhigg é apresentada uma teoria de um lo
 	A maioria das respostas apontam como principal problema desse grupo a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas.
 No formulário também foi perguntado se as pessoas utilizam algum software que auxilie na organização. Nesse maior destaque vai ás pessoas que não utilizam esses serviços, que compõem mais de 60% das respostas
 
-![Figura 1 - Gráfico de respostas do formulário](imagens/imagens/image19.jpg "Gráfico de respostas do formulário")
+![Figura 1 - Gráfico de respostas do formulário](imagens/images/image19.jpg "Gráfico de respostas do formulário")
 
 
 **1.2 Problema**
