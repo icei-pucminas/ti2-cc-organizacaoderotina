@@ -110,7 +110,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 - Back-end: MAVEN -  ferramenta de automação de compilação utilizada primariamente em projetos Java. 
 
-    2.3. Serviços inteligentes
+** 2.3 Serviços Inteligentes  **
 
 Descreva o mecanismo de inteligência que será utilizado no seu sistema. Utilize a modelagem baseada em agente
 para definir as entradas e saídas do seu módulo de serviço inteligente. Apresente quem irá fornecer o serviço
@@ -126,11 +126,22 @@ Apresente o modelo de dados. Defina o dicionário de dados com os respectivos fo
 Apresente a estrutura das tabelas de banco de dados no modelo Diagrama de Entidade-Relacionamento. 
 A Seguir, segue um exemplo de imagem adicionada ao documento.
 
-![Diagrama de Entidade Relacionamento de Exemplo](imagens/er_diagram.png "Diagrama de Entidade Relacionamento de Exemplo")
+![Diagrama de Entidade Relacionamento de Exemplo]( "Diagrama de Entidade Relacionamento de Exemplo")
 
 **4. Sistema desenvolvido**
+- Fluxo do Usuário
+O diagrama apresentado na Figura  mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto.
 
-Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
+![Fluxo de telas do usuário](imagens/images/image31.png "Fluxo de telas do usuário")
+
+- Wireframes
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. 
+
+- Tela - Home-Page
+A tela de home-page mostra algumas das principais funcionalidades do sistema, assim como apresenta os criadores.
+
+
+
 
 **5. Avaliação**
 
