@@ -96,6 +96,20 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 ![Figura 2 - Tecnologias ](imagens/images/1_5GAPClpa09DmNcCslMA23Q.png "Tecnologias")
 
+- Desenvolvimento web: HTML, CSS, JAVASCRIPT - utilizados para construir o front-end do site 
+
+![Figura 3 - Tecnologias ](imagens/images/java-logo-02.jpg "Tecnologias")
+
+- Back-end: Java - utilizados para construir o Back-end do site 
+
+![Figura 4 - Tecnologias ](imagens/images/2.jpg "Tecnologias")
+
+- Back-end: PostgreSQL - sistema gerenciador de banco de dados do site 
+
+![Figura 5 - Tecnologias ](imagens/images/logo-maven.png "Tecnologias")
+
+- Back-end: MAVEN -  ferramenta de automação de compilação utilizada primariamente em projetos Java. 
+
     2.3. Serviços inteligentes
 
 Descreva o mecanismo de inteligência que será utilizado no seu sistema. Utilize a modelagem baseada em agente
