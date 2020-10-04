@@ -139,6 +139,7 @@ usuário, nome completo, email e senha e assim por sua vez será também salvo l
  <img src="imagens/images/image54.png" />
  <img src="imagens/images/image14.png" />
 </p>
+
 - **Tela de Pomodoro**
 
 A tela apresenta um cronômetro que utiliza a técnica pomodoro, assim a pessoa pode executar a tarefa por 25 minutos, sendo que, após tem  pausas curtas de 5 minutos, e após 4 pausar curtas tem uma longa de 15 minutos. Nessa página também após a execução da tarefa a pessoa tem a possibilidade de fazer um resumo bem básico da matéria na qual ele estudou, seguindo a técnica de Feynman. Fora isso na área lateral é onde o estudante pode voltar para a home, ir para ver todos seus resumos, suas tarefas ou uma página informativa sobre o projeto
