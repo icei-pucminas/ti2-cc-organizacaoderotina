@@ -106,7 +106,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 
 <p align="center">
-  <img src="imagens/images/1_5GAPClpa09DmNcCslMA23Q.png" height = "800" width - "800" />
+  <img src="imagens/images/1_5GAPClpa09DmNcCslMA23Q.png" height = "500" width - "800" />
   <img src="imagens/images/java-logo-02.jpg" />
   <img src="imagens/images/2.jpg" />
   <img src="imagens/images/logo-maven.png" />
