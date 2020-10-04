@@ -59,16 +59,16 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 | No.           | Descrição                       | Prioridade |
 | ------------- |:-------------------------------:| ----------:|
-| RF - 01      | O site deve permitir ao usuário adicionar e remover lembretes de tarefas e eventos importantes | Alta      |
-| RF - 02      | O site deve permitir ao usuário adicionar e remover tarefas cotidianas.                                |  Alta    |
-| RF - 03      | O site deve conter um cronômetro que siga a ideia da técnica Pomodoro.                                 |  Média  | 
-| RF - 04      | O site deve exibir as tarefas importantes e cotidianas de forma organizada | Baixa      |
-| RF - 05      | O site deve permitir ao usuário adicionar resumos da matéria estudada de maneira digitada.                                 | Alta    |
-| RF - 06      | O site deve permitir ao usuário adicionar um resumo da matéria estudada a partir de um arquivo criado externamente                                 |  Média  | 
-| RF - 07      |O site deve permitir a sincronização da conta do usuário com contas de serviços externos. | Baixa      |
-| RF - 08      | O site deve exibir ao usuário mensagens a fim de motivar o usuário a concluir suas tarefas.                                | Baixa     |
-| RF - 09      |  O site deve permitir a criação de contas a partir de contas externas.                                 | Baixa  |
-| RF - 10      | O site deve notificar o usuário em relação aos horários em que ele deverá realizar alguma tarefa.                               | Baixa  | 
+| RF-01      | O site deve permitir ao usuário adicionar e remover lembretes de tarefas e eventos importantes | Alta      |
+| RF-02      | O site deve permitir ao usuário adicionar e remover tarefas cotidianas.                                |  Alta    |
+| RF-03      | O site deve conter um cronômetro que siga a ideia da técnica Pomodoro.                                 |  Média  | 
+| RF-04      | O site deve exibir as tarefas importantes e cotidianas de forma organizada | Baixa      |
+| RF-05      | O site deve permitir ao usuário adicionar resumos da matéria estudada de maneira digitada.                                 | Alta    |
+| RF-06      | O site deve permitir ao usuário adicionar um resumo da matéria estudada a partir de um arquivo criado externamente                                 |  Média  | 
+| RF-07      |O site deve permitir a sincronização da conta do usuário com contas de serviços externos. | Baixa      |
+| RF-08      | O site deve exibir ao usuário mensagens a fim de motivar o usuário a concluir suas tarefas.                                | Baixa     |
+| RF-09      |  O site deve permitir a criação de contas a partir de contas externas.                                 | Baixa  |
+| RF-10      | O site deve notificar o usuário em relação aos horários em que ele deverá realizar alguma tarefa.                               | Baixa  | 
 
     2.2. Tecnologias
 
