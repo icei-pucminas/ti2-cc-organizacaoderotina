@@ -145,11 +145,6 @@ Esse é a tela onde a pessoas, na qual, já possuem conta entram nela atraves do
 usuário, nome completo, email e senha e assim por sua vez será também salvo localmente. Fora isso no botão cancelar para voltar para home  home.
 
 
-![Fluxo de telas do usuário](imagens/images/image47.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image9.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image54.png "Fluxo de telas do usuário")
-![Fluxo de telas do usuário](imagens/images/image14.png "Fluxo de telas do usuário")
-
 <p align="center">
   <img src="imagens/images/image47.png" />
   <img src="imagens/images/image9.png" />
