@@ -1,11 +1,13 @@
-# TITULO DO PROJETO
+# Organização de rotina
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Thais Camila Gonçalves costa, thaiscamilacc@gmail.com**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Daniel Soares França**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Filipe Arthur Ferreira Silva**
+
+**Lucas Diniz de Moraes**
 
 ---
 
