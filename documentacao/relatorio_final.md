@@ -141,8 +141,13 @@ usuário, nome completo, email e senha e assim por sua vez será também salvo l
 ![Fluxo de telas do usuário](imagens/images/image54.png "Fluxo de telas do usuário")
 ![Fluxo de telas do usuário](imagens/images/image14.png "Fluxo de telas do usuário")
 
+- Tela de Pomodoro
 
+A tela apresenta um cronômetro que utiliza a técnica pomodoro, assim a pessoa pode executar a tarefa por 25 minutos, sendo que, após tem  pausas curtas de 5 minutos, e após 4 pausar curtas tem uma longa de 15 minutos. Nessa página também após a execução da tarefa a pessoa tem a possibilidade de fazer um resumo bem básico da matéria na qual ele estudou, seguindo a técnica de Feynman. Fora isso na área lateral é onde o estudante pode voltar para a home, ir para ver todos seus resumos, suas tarefas ou uma página informativa sobre o projeto
 
+![Fluxo de telas do usuário](imagens/images/image36.png "Fluxo de telas do usuário")
+![Fluxo de telas do usuário](imagens/images/image49.png "Fluxo de telas do usuário")
+![Fluxo de telas do usuário](imagens/images/image15.png "Fluxo de telas do usuário")
 
 **5. Avaliação**
 
