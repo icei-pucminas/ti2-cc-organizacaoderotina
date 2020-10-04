@@ -59,16 +59,37 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 | No.           | Descrição                       | Prioridade |
 | ------------- |:-------------------------------:| ----------:|
-| RF-01      | O site deve permitir ao usuário adicionar e remover lembretes de tarefas e eventos importantes | Alta      |
-| RF-02      | O site deve permitir ao usuário adicionar e remover tarefas cotidianas.                                |  Alta    |
-| RF-03      | O site deve conter um cronômetro que siga a ideia da técnica Pomodoro.                                 |  Média  | 
-| RF-04      | O site deve exibir as tarefas importantes e cotidianas de forma organizada | Baixa      |
-| RF-05      | O site deve permitir ao usuário adicionar resumos da matéria estudada de maneira digitada.                                 | Alta    |
-| RF-06      | O site deve permitir ao usuário adicionar um resumo da matéria estudada a partir de um arquivo criado externamente                                 |  Média  | 
-| RF-07      |O site deve permitir a sincronização da conta do usuário com contas de serviços externos. | Baixa      |
-| RF-08      | O site deve exibir ao usuário mensagens a fim de motivar o usuário a concluir suas tarefas.                                | Baixa     |
-| RF-09      |  O site deve permitir a criação de contas a partir de contas externas.                                 | Baixa  |
-| RF-10      | O site deve notificar o usuário em relação aos horários em que ele deverá realizar alguma tarefa.                               | Baixa  | 
+| RF-01 | O site deve permitir ao usuário adicionar e remover lembretes de tarefas e eventos importantes | Alta |
+| RF-02 | O site deve permitir ao usuário adicionar e remover tarefas cotidianas. | Alta |
+| RF-03 | O site deve conter um cronômetro que siga a ideia da técnica Pomodoro.  | Média | 
+| RF-04 | O site deve exibir as tarefas importantes e cotidianas de forma organizada | Baixa |
+| RF-05 | O site deve permitir ao usuário adicionar resumos da matéria estudada de maneira digitada. | Alta |
+| RF-06 | O site deve permitir ao usuário adicionar um resumo da matéria estudada a partir de um arquivo criado externamente  | Média | 
+| RF-07 |O site deve permitir a sincronização da conta do usuário com contas de serviços externos. | Baixa |
+| RF-08 | O site deve exibir ao usuário mensagens a fim de motivar o usuário a concluir suas tarefas.  | Baixa |
+| RF-09 |  O site deve permitir a criação de contas a partir de contas externas. | Baixa |
+| RF-10 | O site deve notificar o usuário em relação aos horários em que ele deverá realizar alguma tarefa. | Baixa | 
+
+** 2.2. Requisitos não funcionais **
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
+| No.           | Descrição                       | Prioridade |
+| ------------- |:-------------------------------:| ----------:|
+| RNF-01 |O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | Alta |
+| RNF-02 |O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. | Alta |
+| RNF-03 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade  | Média | 
+| RNF-04 | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | Alta |
+	
+** 2.2. Restrições **
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+
+
+| No.           | Descrição                       |
+| ------------- |:-------------------------------:| ----------:|
+| RE-01 |O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 30/11/2020. |
+| RE-02 |O aplicativo deve utilizar tecnologias básicas da Web no Frontend e programação Backend, utilizando Banco de dados e Sistemas Inteligentes |
+| RE-03 | A equipe não pode subcontratar o desenvolvimento do trabalho. | 
+
 
     2.2. Tecnologias
 
