@@ -155,6 +155,8 @@ Com o cadastro concluído, o usuário vai a uma tela semelhante à figura, indic
 
 ![Fluxo de telas do usuário](imagens/images/image16.png "Fluxo de telas do usuário")
 
+![Fluxo de telas do usuário](imagens/images/image26.png "Fluxo de telas do usuário")
+
 **5. Avaliação**
 
 Faça aqui sobre a avaliação do software. Indique se ele atendeu as expectativas e ele é viável. 
