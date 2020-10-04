@@ -32,7 +32,7 @@ No livro O Poder do Hábito de Charles Duhigg é apresentada uma teoria de um lo
 No formulário também foi perguntado se as pessoas utilizam algum software que auxilie na organização. Nesse maior destaque vai ás pessoas que não utilizam esses serviços, que compõem mais de 60% das respostas
 
 
-![Figura 1 - Gráfico de respostas do formulário](imagens/images/image19.png "Gráfico de respostas do formulário")
+![Figura 1 - Gráfico de respostas do formulário](imagens/imagens/ image19.jpgg "Gráfico de respostas do formulário")
 
 
 **1.2 Problema**
