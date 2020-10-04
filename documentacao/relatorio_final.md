@@ -17,7 +17,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-Nosso objetivo é que o usuário atinja o máximo rendimento em suas tarefas com nosso site. Em uma pesquisa realizada pelo grupo no primeiro semestre de 2020 as pessoas apontam como principal problema a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas, então nosso objetivo geral e ter uma aplicação web que ajude-os a se organizar._
+Nosso objetivo é que o usuário atinja o máximo rendimento em suas tarefas com nosso site. Em uma pesquisa realizada pelo grupo no primeiro semestre de 2020 as pessoas apontam como principal problema a dificuldade de organizar a rotina, conciliar escola e tarefas de casa e colocar a matéria vista em dia, problemas agravados por questões como procrastinação, questões financeiras e psicológicas, então nosso objetivo geral e ter uma aplicação web que ajude-os a se organizar
 
 ---
 
@@ -127,7 +127,7 @@ A Seguir, segue um exemplo de imagem adicionada ao documento.
 
 **4. Sistema desenvolvido**
 
-- Tela de Login e Cadastro
+- **Tela de Login e Cadastro**
 
 Esse é a tela onde a pessoas, na qual, já possuem conta entram nela atraves do usuário e sua senha, já armazenados no localStorage, e os que não podem cadastrar-se através de um PopUp, aberto ao clicar no botão de novo usuário. Nesse popUp deve ser colocado 
 usuário, nome completo, email e senha e assim por sua vez será também salvo localmente. Fora isso no botão cancelar para voltar para home  home.
@@ -139,7 +139,7 @@ usuário, nome completo, email e senha e assim por sua vez será também salvo l
  <img src="imagens/images/image54.png" />
  <img src="imagens/images/image14.png" />
 </p>
-- Tela de Pomodoro
+- **Tela de Pomodoro**
 
 A tela apresenta um cronômetro que utiliza a técnica pomodoro, assim a pessoa pode executar a tarefa por 25 minutos, sendo que, após tem  pausas curtas de 5 minutos, e após 4 pausar curtas tem uma longa de 15 minutos. Nessa página também após a execução da tarefa a pessoa tem a possibilidade de fazer um resumo bem básico da matéria na qual ele estudou, seguindo a técnica de Feynman. Fora isso na área lateral é onde o estudante pode voltar para a home, ir para ver todos seus resumos, suas tarefas ou uma página informativa sobre o projeto
 
@@ -150,7 +150,7 @@ A tela apresenta um cronômetro que utiliza a técnica pomodoro, assim a pessoa 
  <img src="imagens/images/image15.png" />
 </p>
 
-- Quadro de horários
+- **Quadro de horários**
 
 O quadro de horários é um carrossel com 7 partes, cada uma exibindo as tarefas cotidianas do usuário em um determinado dia da semana. Há também um pequeno formulário para adicionar uma nova tarefa, e ao lado de cada atividade há um link que, se clicado, remove a tarefa do quadro (Obs : se a tarefa deletada ocorrer em mais de um dia, ela será removida de todos os dias).
 
@@ -161,7 +161,7 @@ O quadro de horários é um carrossel com 7 partes, cada uma exibindo as tarefas
  <img src="imagens/images/image20.png" />
 </p>
 
-- Tela de Lembrete
+- **Tela de Lembrete**
 
 A tela apresenta um meio das pessoas adicionar tarefas, no qual, acontecem apenas uma vez e em determinado dia. Assim o usuário coloca o nome da lembrete, descrição, data do lembrete e a hora que irá acontecer,essas informações são salvas no localStorage. Ao fazer isso é criado ao lado uma lista dos lembretes contendo essas informações, cada elemento dessa lista ao ser clicado o lembrete é excluído, portanto tornando mais dinâmica o modo de manipular os mesmos. Fora isso na área lateral é onde o estudante pode voltar para a home, ir para ver todos seus resumos, suas tarefas ou uma página informativa sobre o projeto.
 
