@@ -1,13 +1,12 @@
 # Organização de rotina
 
 
-**Thais Camila Gonçalves costa, thaiscamilacc@gmail.com**
+
 
 **Daniel Soares França**
-
-**Filipe Arthur Ferreira Silva**
-
 **Lucas Diniz de Moraes**
+**Filipe Arthur Ferreira Silva**
+**Thais Camila Gonçalves costa, thaiscamilacc@gmail.com**
 
 ---
 
