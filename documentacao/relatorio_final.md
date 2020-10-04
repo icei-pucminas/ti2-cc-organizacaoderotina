@@ -143,8 +143,17 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 A tela de home-page mostra algumas das principais funcionalidades do sistema, assim como apresenta os criadores.
 
+![Fluxo de telas do usuário](imagens/images/image32.png "Fluxo de telas do usuário")
 
+- Telas - Cadastro e login
 
+A tela de cadastro é semelhante a da figura: uma tela de cadastro normal, em que além de fornecer nome, email e senha, haveria uma opção para criar uma conta a partir de contas externas. 
+
+![Fluxo de telas do usuário](imagens/images/image26.png "Fluxo de telas do usuário")
+
+Com o cadastro concluído, o usuário vai a uma tela semelhante à figura, indicando que o cadastro foi concluído com sucesso, indo em seguida à tela de login , também não muito diferente de telas de login normais.
+
+![Fluxo de telas do usuário](imagens/images/image16.png "Fluxo de telas do usuário")
 
 **5. Avaliação**
 
