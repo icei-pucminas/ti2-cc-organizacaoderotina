@@ -81,11 +81,12 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 | RNF-04 | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | Alta |
 	
 ** 2.2. Restrições **
+
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 
 | No.           | Descrição                       |
-| ------------- |:-------------------------------:| ----------:|
+| ------------- |:-------------------------------:|
 | RE-01 |O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 30/11/2020. |
 | RE-02 |O aplicativo deve utilizar tecnologias básicas da Web no Frontend e programação Backend, utilizando Banco de dados e Sistemas Inteligentes |
 | RE-03 | A equipe não pode subcontratar o desenvolvimento do trabalho. | 
