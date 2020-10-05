@@ -9,6 +9,7 @@ Nosso objetivo é que o usuário atinja o máximo de rendimento em suas tarefas 
 - Filipe Arthur Ferreira Silva
 - Lucas Diniz de Moraes
 - Thais Camila Gonçalves Costa
+- Vitor Hugo França de Paula
 
 
 ## Professores responsáveis
