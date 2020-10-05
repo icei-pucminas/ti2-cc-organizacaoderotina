@@ -14,8 +14,9 @@ Nosso objetivo é que o usuário atinja o máximo de rendimento em suas tarefas 
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Hugo Bastos de Paula
+* Joyce Christina de Paiva Carvalho
+* Max Do Val Machado
 
 ## Instruções de utilização
 
