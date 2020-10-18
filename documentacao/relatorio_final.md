@@ -3,7 +3,7 @@
 
 
 
-**Daniel Soares França**
+**Daniel Soares França, daniel.franca0@gmail.com**
 
 **Lucas Diniz de Moraes**
 
