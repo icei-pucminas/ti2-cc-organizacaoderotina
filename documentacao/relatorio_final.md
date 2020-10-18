@@ -7,7 +7,7 @@
 
 **Lucas Diniz de Moraes**
 
-**Filipe Arthur Ferreira Silva, lipearthursilva@gmail.com108**
+**Filipe Arthur Ferreira Silva, lipearthursilva@gmail.com**
 
 **Thais Camila Gonçalves Costa, thaiscamilacc@gmail.com**
 
