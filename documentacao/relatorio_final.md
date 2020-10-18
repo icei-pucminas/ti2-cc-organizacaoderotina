@@ -11,7 +11,7 @@
 
 **Thais Camila Gonçalves Costa, thaiscamilacc@gmail.com**
 
-**Vitor Hugo França de Paula**
+**Vitor Hugo França de Paula, vitorhdepaula1@gmail.com**
 
 ---
 
