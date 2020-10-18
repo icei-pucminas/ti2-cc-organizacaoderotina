@@ -12,6 +12,6 @@ Os principais documentos a serem produzidos são:
 
 <img src="/documentacao/imagens/ER-Ti2.jpg">
 
-<img src="/documentacao/imagens/Lógico_1.jpg">
+<img src="/documentacao/imagens/Lógico_1.png">
 
 Demais artefatos que julgar pertinentes.
