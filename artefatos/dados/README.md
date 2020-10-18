@@ -10,6 +10,6 @@ Os principais documentos a serem produzidos são:
 
 * `diagrama entidade relacionamento`
 
-<img src="ti2-cc-organizacaoderotina/documentacao/imagens/ER-Ti2.jpg">
+<img src="/documentacao/imagens/ER-Ti2.jpg">
 
 Demais artefatos que julgar pertinentes.
