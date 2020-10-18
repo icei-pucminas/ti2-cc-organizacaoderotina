@@ -5,7 +5,7 @@
 
 **Daniel Soares França, daniel.franca0@gmail.com**
 
-**Lucas Diniz de Moraes**
+**Lucas Diniz de Moraes, lucasmoraes1708@gmail.com**
 
 **Filipe Arthur Ferreira Silva, lipearthursilva@gmail.com**
 
