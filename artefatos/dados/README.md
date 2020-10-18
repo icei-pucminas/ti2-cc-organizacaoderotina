@@ -9,6 +9,7 @@ Os principais documentos a serem produzidos são:
 	* Script de criação do banco de dados.
 
 * `diagrama entidade relacionamento`
-	* Apresentar o DER em imagem vetorial para eviar perda de qualidade com renderização em resolução específica.
+
+<img src="ti2-cc-organizacaoderotina/documentacao/imagens/ER-Ti2.jpg">
 
 Demais artefatos que julgar pertinentes.
