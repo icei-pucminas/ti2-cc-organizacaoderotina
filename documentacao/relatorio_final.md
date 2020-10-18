@@ -124,8 +124,10 @@ Apresente o modelo de dados. Defina o dicionário de dados com os respectivos fo
     3.1. Diagrama de Entidade-Relacionamento
 
 Temos no Modelo ER da base de dados 4 entidades: a entidade Usuário (que possui a chave Id e os atributos login e senha), a entidade Resumo (que possui a chave Id e os atributos Matéria, Arquivo e Descrição), a entidade Lembrete (possui a chave Id e os atributos Nome, Dia e Horário) e a entidade Tarefa (com a chave Id e os atributos Nome, Hora Início, Hora Fim e Dias da semana, este último multivalorado). A entidade Usuário se relaciona com todas as outras entidades, podendo ter n relações com cada uma.
-
+<p align="center">
 <img src="/documentacao/imagens/ER-Ti2.jpg">
+<img src="/documentacao/imagens/Lógico_1.pngg">
+</p>
 
 **4. Sistema desenvolvido**
 
