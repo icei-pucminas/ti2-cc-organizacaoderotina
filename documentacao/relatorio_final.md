@@ -7,9 +7,11 @@
 
 **Lucas Diniz de Moraes**
 
-**Filipe Arthur Ferreira Silva**
+**Filipe Arthur Ferreira Silva, lipearthursilva@gmail.com108**
 
-**Thais Camila Gonçalves costa, thaiscamilacc@gmail.com**
+**Thais Camila Gonçalves Costa, thaiscamilacc@gmail.com**
+
+**Vitor Hugo França de Paula**
 
 ---
 
@@ -121,9 +123,9 @@ Apresente o modelo de dados. Defina o dicionário de dados com os respectivos fo
 
     3.1. Diagrama de Entidade-Relacionamento
 
-Apresente a estrutura das tabelas de banco de dados no modelo Diagrama de Entidade-Relacionamento. 
-A Seguir, segue um exemplo de imagem adicionada ao documento.
+Temos no Modelo ER da base de dados 4 entidades: a entidade Usuário (que possui a chave Id e os atributos login e senha), a entidade Resumo (que possui a chave Id e os atributos Matéria, Arquivo e Descrição), a entidade Lembrete (possui a chave Id e os atributos Nome, Dia e Horário) e a entidade Tarefa (com a chave Id e os atributos Nome, Hora Início, Hora Fim e Dias da semana, este último multivalorado).
 
+<img src="/documentacao/imagens/ER-Ti2.jpg">
 
 
 
